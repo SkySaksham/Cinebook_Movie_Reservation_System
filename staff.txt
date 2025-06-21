@@ -1,0 +1,1 @@
+using a text file , named staff.txt to store the MOVIES name
